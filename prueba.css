@@ -1,0 +1,119 @@
+/*probando coment dos*/
+p.parrafo {
+  font: 15pt bold "impact";
+  background-color: cornsilk;
+  align-items: center;
+  padding: 20px;
+  color: black; }
+
+body {
+  background-color: pink;
+  color: brown;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+  ul li {
+    font-size: 30pt;
+    background-color: white;
+    text-decoration: none; }
+    ul li a {
+      text-decoration: none;
+      color: black;
+      padding: 20px; }
+
+.cuadros {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; }
+
+.bordes {
+  border: 2px solid yellow;
+  padding: 10px;
+  background-color: rebeccapurple;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 12pt;
+  text-align: center;
+  margin: 5px;
+  align-items: center; }
+
+.contenedor__modificador {
+  background-color: yellowgreen;
+  padding: 10px;
+  color: black;
+  align-items: center; }
+
+.contenedor__modificadoruno {
+  background-color: black;
+  padding: 10px;
+  color: white;
+  font-size: 20pt;
+  align-items: center; }
+
+.contenedor__modificadordos {
+  padding: 10px;
+  border: 1px solid red;
+  align-items: center; }
+
+.contenedor__modificadortres {
+  padding: 10px;
+  background-color: sandybrown;
+  border: 5px solid black;
+  color: black;
+  font-size: 30px;
+  align-items: center; }
+
+.contenedor__modificadorcuatro {
+  background-color: powderblue;
+  color: PURPLE;
+  font-size: 30px;
+  align-items: center;
+  padding: 20px; }
+
+.contenedor__modificadorcinco {
+  padding: 10px;
+  color: black;
+  font-size: 40pt;
+  align-items: center; }
+
+.contenedor__modificadorseis {
+  padding: 10px;
+  background-color: #410009;
+  color: wheat;
+  font-size: 20pt;
+  align-items: center; }
+
+.contenedor__modificadorsiete {
+  padding: 10px;
+  background-color: blue;
+  color: wheat;
+  border: white 10px;
+  font-size: 20pt;
+  align-items: center;
+  width: 720px; }
+
+.contenedor__modificadorocho, .contenedor__modificadonueve {
+  padding: 10px;
+  border: white solid 5px;
+  font-size: 10pt;
+  align-items: center;
+  width: 360px; }
+
+.contenedor__modificadonueve {
+  background-color: yellow; }
+
+.contenedor__modificadorcuatro {
+  font-size: 40pt; }
+
+.item-1 {
+  width: 200px; }
+
+.item-2 {
+  width: 400px; }
+
+.item-3 {
+  width: 600px; }
