@@ -103,7 +103,7 @@ ul {
   align-items: center;
   width: 360px; }
 
-.contenedor__modificadonueve {
+.contenedor__modificadornueve {
   background-color: yellow; }
 
 .contenedor__modificadorcuatro {
@@ -117,3 +117,10 @@ ul {
 
 .item-3 {
   width: 600px; }
+
+ 
+.modificaciones {
+    background-color: crimson;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  } 
